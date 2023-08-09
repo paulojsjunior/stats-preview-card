@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/paulojsjunior/stats-preview-card)
-- Live Site URL: [Add live site URL here](https://paulojsjunior.github.io/stats-preview-card/)
+- Solution URL: [Check it out](https://github.com/paulojsjunior/stats-preview-card)
+- Live Site URL: [Check it out](https://paulojsjunior.github.io/stats-preview-card/)
 
 ## My process
 
