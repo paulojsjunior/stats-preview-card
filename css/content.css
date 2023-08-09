@@ -19,7 +19,6 @@
   padding: 72px 80px;
   border-radius: 8px 0 0 8px;
   gap: 20px;
-  /* display: grid; */
 }
 
 .text-content p {
@@ -36,18 +35,18 @@
   gap: 68px;
 }
 
-.stat-content {
+.stat li {
   display: flex;
   flex-direction: column;
   align-self: end;
-  gap: 80px;
+  /* gap: 80px; */
 }
 
-.stat-content h6 {
+.stat h6 {
   margin-bottom: 6px;
 }
 
-.stat-content p {
+.stat p {
   text-transform: uppercase;
   color: hsl(0, 0%, 100%, 0.6)
 }
@@ -89,12 +88,12 @@
     gap: 20px;
   }
 
-  .stat-content {
+  .stat li {
     text-align: center;
     align-self: center;
   }
 
-  .stat-content h6 {
+  .stat h6 {
     margin-bottom: 0px;
   }
 }
